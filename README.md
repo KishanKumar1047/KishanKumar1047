@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Kishan Kumar!
 
 Welcome to my GitHub profile! I'm passionate about **Fullstack Web Development**, **DSA**, and **OOP**. I enjoy exploring new technologies and am always open to collaboration.
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about **Fullstack Web Development**
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishan Kumar's&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ---
@@ -81,10 +81,10 @@ Welcome to my GitHub profile! I'm passionate about **Fullstack Web Development**
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
-- **Twitter:** [Your Twitter](https://twitter.com/your-handle)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/kishan-kumar-14a7802b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Twitter:** [Your Twitter](https://x.com/Kishankumar936?t=VRA9jU6PP6xcAPdSySOf-Q&s=08 )
+- **Email:** kishankumar12345a@gmail.com
 
 ---
 
-**Fun Fact:** [Your Fun Fact]
+**Fun Fact:** The funniest thing about me? Well, there's absolutely nothing funny about me—except maybe how serious I am about that! 😄
