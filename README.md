@@ -4,23 +4,6 @@ Welcome to my GitHub profile! I'm passionate about **Fullstack Web Development**
 
 ---
 
-## 🚀 Skills
-
-### Fullstack Web Development
-- **Frontend:** HTML, CSS, JavaScript, GSAP
-- **Backend:** Node.js
-
-### Data Structures & Algorithms (DSA)
-- **Language:** C++
-
-### Object-Oriented Programming (OOP)
-- **Languages:** C++, Java, Python
-
----
-
-
-
-
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -44,6 +27,20 @@ Welcome to my GitHub profile! I'm passionate about **Fullstack Web Development**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 🚀 Skills
+
+### Fullstack Web Development
+- **Frontend:** HTML, CSS, JavaScript, GSAP
+- **Backend:** Node.js
+
+### Data Structures & Algorithms (DSA)
+- **Language:** C++
+
+### Object-Oriented Programming (OOP)
+- **Languages:** C++, Java, Python
 
 ---
 ## 📚 Projects
