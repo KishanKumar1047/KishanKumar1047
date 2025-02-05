@@ -1,90 +1,93 @@
-# 👋 Hi, I'm Kishan Kumar!
+<h1 align="center">Hi there, I'm Kishan Kumar 👋</h1>
 
-Welcome to my GitHub profile! I'm passionate about **Fullstack Web Development**, **DSA**, and **OOP**. I enjoy exploring new technologies and am always open to collaboration.
+<p align="center">
+  <b>BTech Student | C++ & SQL Enthusiast | Data Science & Deep Learning Researcher | Future Civil Servant</b>  
+</p>
 
----
-
-## 🛠️ Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishankumar1047&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishan Kumar's&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
-## 🚀 Skills
-
-### Fullstack Web Development
-- **Frontend:** HTML, CSS, JavaScript, GSAP
-- **Backend:** Node.js
-
-### Data Structures & Algorithms (DSA)
-- **Language:** C++
-
-### Object-Oriented Programming (OOP)
-- **Languages:** C++, Java, Python
-
----
-## 📚 Projects
-
-### Fullstack Web Development
-1. **Portfolio Website**
-   - **Description:** A responsive personal portfolio website showcasing my skills, projects, and contact information.
-   - **Technologies:** HTML, CSS, JavaScript, GSAP
-   - **Repository:** [Link to the repository]
-
-2. **E-commerce Platform**
-   - **Description:** A full-fledged e-commerce platform with user authentication, product listings, and a shopping cart.
-   - **Technologies:** Node.js, Express, MongoDB, HTML, CSS, JavaScript
-   - **Repository:** [Link to the repository]
-
-### Data Structures & Algorithms (DSA)
-1. **Algorithm Visualizer**
-   - **Description:** A web application that visualizes various sorting and searching algorithms.
-   - **Technologies:** C++, HTML, CSS, JavaScript
-   - **Repository:** [Link to the repository]
-
-2. **Competitive Programming Solutions**
-   - **Description:** A collection of solutions to competitive programming problems from platforms like Codeforces, LeetCode, and HackerRank.
-   - **Technologies:** C++
-   - **Repository:** [Link to the repository]
-
-### Object-Oriented Programming (OOP)
-1. **Bank Management System**
-   - **Description:** A console-based application for managing bank accounts, including features like deposit, withdrawal, and balance inquiry.
-   - **Technologies:** C++
-   - **Repository:** [Link to the repository]
-
-2. **Simple Library System**
-   - **Description:** A Java-based library management system that allows users to borrow and return books.
-   - **Technologies:** Java (Basics)
-   - **Repository:** [Link to the repository]
+## 🚀 About Me  
+🔹 Passionate about **C++, SQL, Data Science, and Deep Learning**  
+🔹 Exploring **Data Science, Machine Learning & Big Data Analytics** 📊  
+🔹 Currently working on **SAR Image Colorization using GANs** 🎨  
+🔹 Member of **Rotary Club**, contributing to societal welfare 🌍  
+🔹 Aspiring **civil servant**, blending tech with impact ✨  
+🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
 
 ---
 
-## 🌐 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/kishan-kumar-14a7802b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter:** [Your Twitter](https://x.com/Kishankumar936?t=VRA9jU6PP6xcAPdSySOf-Q&s=08 )
-- **Email:** kishankumar12345a@gmail.com
+## 🛠️ Tech Stack  
+#### **Programming Languages**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+
+#### **Database & Big Data**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+
+#### **Data Science & ML**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+#### **Web Development**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+#### **Tools & Frameworks**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 
 ---
 
-**Fun Fact:** The funniest thing about me? Well, there's absolutely nothing funny about me—except maybe how serious I am about that! 😄
+## 📌 Current Projects  
+- 🔬 **SAR Image Colorization using GANs** – *Deep Learning research for better visualization of SAR images*  
+- 🎮 **Sliding Puzzle & Snake Game** – *Game development using HTML, CSS, and JavaScript*  
+- 📚 **Library Management System in C++** – *File handling, OOP, and database management*  
+- 📊 **Data Science Exploration** – *Working on SQL-based data analysis projects*  
+- 🔢 **C++ Data Structures & Algorithms** – *Exploring advanced DSA topics*  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishankumar1047&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1047&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1047&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 🎖️ Achievements  
+🏆 **Ranked in Competitive Coding Challenges** on platforms like Codeforces & Leetcode  
+🏆 **Published Research Work on SAR Image Colorization (upcoming)**  
+🏆 **Built SQL-driven data analysis projects**  
+🏆 **Contributed to Open Source & Rotary Club Projects**  
+
+---
+
+## 🤝 Let's Connect  
+- **LinkedIn:** [Kishan Kumar](https://www.linkedin.com/in/kishan-kumar-14a7802b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Twitter:** [Kishan Kumar](https://x.com/Kishankumar936?t=VRA9jU6PP6xcAPdSySOf-Q&s=08)  
+- **Email:** kishankumar12345a@gmail.com  
+
+---
+
+## 🎉 Fun Facts  
+🎵 **Favorite Music Genre:** Lo-Fi beats while coding  
+🎮 **Gaming Interests:** Strategy & Puzzle Games  
+🚀 **Motto:** *"Code, Learn, and Make an Impact!"*  
+
