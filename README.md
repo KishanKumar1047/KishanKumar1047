@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kishan Kumar 👋</h1>
 
 <p align="center">
-  <b>BTech Student | C++ & SQL Enthusiast | Data Science & Deep Learning Researcher | Future Civil Servant</b>  
+  <b>BTech Student | C++ & SQL Enthusiast | Data Science & Deep Learning Researcher</b>  
 </p>
 
 <p align="center">
