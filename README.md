@@ -17,6 +17,7 @@
 🔹 Member of **Rotary Club**, contributing to societal welfare 🌍  
 🔹 Aspiring **civil servant**, blending tech with impact ✨  
 🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
+🔹 **[View My Resume](https://drive.google.com/file/d/1twu2Zg4ZLvMnewzPV93qLGgvANrsc-0C/view?usp=drive_link)** 📚  
 
 ---
 
@@ -51,7 +52,7 @@
 ---
 
 ## 📌 Current Projects  
-- 🔬 **SAR Image Colorization using GANs** – *Deep Learning research for better visualization of SAR images*  
+- 🌬️ **SAR Image Colorization using GANs** – *Deep Learning research for better visualization of SAR images*  
 - 🎮 **Sliding Puzzle & Snake Game** – *Game development using HTML, CSS, and JavaScript*  
 - 📚 **Library Management System in C++** – *File handling, OOP, and database management*  
 - 📊 **Data Science Exploration** – *Working on SQL-based data analysis projects*  
@@ -71,7 +72,7 @@
 
 ---
 
-## 🎖️ Achievements  
+## 🏆 Achievements  
 🏆 **Ranked in Competitive Coding Challenges** on platforms like Codeforces & Leetcode  
 🏆 **Published Research Work on SAR Image Colorization (upcoming)**  
 🏆 **Built SQL-driven data analysis projects**  
