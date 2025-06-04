@@ -12,12 +12,13 @@
 
 ## 🚀 About Me  
 🔹 Passionate about **C++, SQL, Data Science, and Deep Learning**  
-🔹 Exploring **Data Science, Machine Learning & Big Data Analytics** 📊  
-🔹 Currently working on **SAR Image Colorization using GANs** 🎨  
+🔹 Exploring **Data Science, Machine Learning & Big Data Analytics** 📊    
 🔹 Member of **Rotary Club**, contributing to societal welfare 🌍  
 🔹 Aspiring **civil servant**, blending tech with impact ✨  
 🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
-🔹 **[View My Resume](https://drive.google.com/file/d/1twu2Zg4ZLvMnewzPV93qLGgvANrsc-0C/view?usp=drive_link)** 📚  
+🔹 **[View My Resume](https://drive.google.com/file/d/1IMp2vy5Wjm5pM2-8Fqpql8Wl_yj53l_T/view?usp=drive_link)** 📚  
+
+
 
 ---
 
