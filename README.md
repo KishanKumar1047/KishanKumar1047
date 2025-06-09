@@ -89,14 +89,6 @@
 
 ## 📅 My Journey So Far
 
-```mermaid
-timeline
-  title My Coding & Research Timeline
-  2023-06 : Started BTech & joined Rotary Club
-  2024-04 : Completed SQL analytics projects
-  2024-09 : Submitted SAR Image Colorization paper
-  2025-02 : Started exploring GANs and Big Data
-
 
 🎧 Lo-Fi Coding Vibes
 <p align="center"> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdPec7aLTmlC?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </p>
