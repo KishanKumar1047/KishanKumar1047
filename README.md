@@ -1,87 +1,118 @@
-# 👋 Hey, I'm **Kishan Kumar**  
-🎓 BTech Student | 💻 C++ & SQL Enthusiast | 📊 Data Science & Deep Learning Explorer  
+<h1 align="center">Hi there, I'm Kishan Kumar 👋</h1>
+
+<p align="center">
+  <b>BTech Student • C++ & SQL Enthusiast • Data Science & Deep Learning Researcher</b><br/>
+  <img src="https://komarev.com/ghpvc/?username=kishankumar1047&style=flat&label=Profile%20Views" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate BTech student diving deep into **C++**, **SQL**, **Data Science**, and **Deep Learning**.  
-I love solving complex problems, contributing to open-source projects, and making a positive impact through **tech and community work**.
+🔹 Passionate about **C++, SQL, Data Science, and Deep Learning**  
+🔹 Exploring **GANs, Machine Learning & Big Data Analytics** 📊  
+🔹 Member of **Rotary Club**, driving societal impact 🌍  
+🔹 Aspiring **civil servant**, blending tech with governance ✨  
+🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
+🔹 **[View My Resume](https://drive.google.com/file/d/19uqB6bLVimc3GiHRRfsJWQnDIrHoUV2y/view?usp=drive_link)** 📚  
 
-- 🔍 **Currently Exploring**: Advanced Data Structures, GANs, and Big Data Analytics  
-- 🌍 **Community Involvement**: Proud member of the **Rotary Club**, driving societal change  
-- ✨ **Aspiration**: To blend tech innovation with public service as a **future civil servant**  
-- 📄 [**View My Resume**](#) <!-- Add your resume link here -->
+---
+
+## 🏅 Certifications
+
+- 📜 [Certified in Python Programming](https://drive.google.com/file/d/1MbtccBH1dxaUfLHlxqK8VVvFEsbF0KiW/view?usp=drive_link)  
+- 🤖 [AI Workshop Attendee – Be10x Certification](https://drive.google.com/file/d/1Bux8u1iU21qxNuyBi3hdSQvOKOtA1XXN/view?usp=drive_link)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| 💻 Programming | 🗄️ Database & Big Data | 📈 Data Science & ML | 🌐 Web Development | 🔧 Tools & Frameworks |
-|----------------|------------------------|----------------------|---------------------|------------------------|
-| C++, Python     | MySQL, PostgreSQL      | Pandas, NumPy, Sklearn, Matplotlib | HTML, CSS, JS | Git, VS Code, Jupyter |
-| JavaScript     | MongoDB (learning)     | TensorFlow, Keras, GANs             | Bootstrap, Tailwind | Linux, GitHub, Bash    |
+### 🧠 Programming Languages  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+
+### 🗄️ Database & Big Data  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+
+### 📊 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+### 🔧 Tools & Frameworks  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 
 ---
 
-## 🌟 Featured Projects
+## 📌 Current Projects
 
-### 🎯 SAR Image Colorization using GANs  
-🌬️ Deep Learning research to enhance SAR image visualization  
-🔗 [Explore the Repo](#)
-
-### 🎮 Sliding Puzzle & Snake Game  
-Interactive browser games built using **HTML, CSS, and JavaScript**  
-🔗 [Play Now](#)
-
-### 📚 Library Management System  
-C++-based management system using **OOP, File Handling, and Vectors**  
-🔗 [View Code](#)
-
-### 📊 SQL Data Analysis  
-Extracting data-driven insights using **MySQL & PostgreSQL**  
-🔗 [Check it Out](#)
+- 🌬️ **SAR Image Colorization using GANs** – *Improving SAR image interpretability with Deep Learning*  
+- 🎮 **Sliding Puzzle & Snake Game** – *Browser-based games using HTML/CSS/JS*  
+- 📚 **Library Management System** – *C++ based system using OOP & file handling*  
+- 📊 **SQL Data Analysis** – *Insight generation using MySQL/PostgreSQL*  
+- 🔢 **C++ DSA Repository** – *Advanced Data Structures & Algorithms practice*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Replace with your actual GitHub username or use GitHub Readme Stats -->
-![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishankumar1047&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1047&theme=tokyonight" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1047&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=kishankumar1047&theme=tokyonight" width="90%"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Ranked in Competitive Coding Challenges** (Codeforces & LeetCode)  
-- 📄 **Research Paper on SAR Image Colorization** (Publication upcoming)  
-- 📊 **Built Multiple SQL-Driven Analysis Projects**  
-- 🌐 **Open Source Contributions & Rotary Club Projects**
+🏆 **Ranked in Competitive Coding Challenges** – Codeforces & Leetcode  
+🏆 **Research Paper on SAR Image Colorization** – *Upcoming Publication*  
+🏆 **Built Real-World SQL Analytics Projects**  
+🏆 **Active Contributor to Open Source & Rotary Club**
 
 ---
 
-## 🤝 Let's Collaborate!
+## 📅 My Journey So Far
 
-Have an exciting project or idea?  
-I’m always open to collaborations and contributing to meaningful work!
+```mermaid
+timeline
+  title My Coding & Research Timeline
+  2023-06 : Started BTech & joined Rotary Club
+  2024-04 : Completed SQL analytics projects
+  2024-09 : Submitted SAR Image Colorization paper
+  2025-02 : Started exploring GANs and Big Data
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 📧 kishankumar12345a@gmail.com  
 
-⭐ Drop a star on my repos or just reach out for a tech chat!
+🎧 Lo-Fi Coding Vibes
+<p align="center"> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdPec7aLTmlC?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </p>
 
----
 
-## 🎉 Fun Facts
+🤝 Let's Connect
+💼 LinkedIn: Kishan Kumar
 
-🎵 Currently Vibing to: Lo-Fi beats for coding sessions  
-🎮 Gaming Obsession: Strategy & Puzzle Games  
-📚 Favorite Book: *The Alchemist* by Paulo Coelho  
-🚀 Motto: **Code, Learn, Impact!**
+🐦 Twitter: Kishan Kumar
 
----
+📧 Email: kishankumar12345a@gmail.com
 
-## 🎨 Just for Fun – ASCII Art
+🎉 Fun Facts
+🎵 Vibing To: Lo-Fi Beats While Coding
+🎮 Gaming Obsession: Strategy & Puzzle Games
+📚 Favorite Book: The Alchemist by Paulo Coelho
+🚀 Motto: "Code, Learn, and Make an Impact!"
 
+<p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" /> </p>
