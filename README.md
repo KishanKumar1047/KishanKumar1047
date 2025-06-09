@@ -78,33 +78,23 @@
 
 ---
 
-## 🏆 Achievements
 
-🏆 **Ranked in Competitive Coding Challenges** – Codeforces & Leetcode  
-🏆 **Research Paper on SAR Image Colorization** – *Upcoming Publication*  
-🏆 **Built Real-World SQL Analytics Projects**  
-🏆 **Active Contributor to Open Source & Rotary Club**
+## 🏆 Achievements  
+🏆 **Ranked in Competitive Coding Challenges** on platforms like Codeforces & Leetcode  
+🏆 **Published Research Work on SAR Image Colorization (upcoming)**  
+🏆 **Built SQL-driven data analysis projects**  
+🏆 **Contributed to Open Source & Rotary Club Projects**  
 
 ---
 
-## 📅 My Journey So Far
+## 🤝 Let's Connect  
+- **LinkedIn:** [Kishan Kumar](https://www.linkedin.com/in/kishan-kumar-14a7802b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Twitter:** [Kishan Kumar](https://x.com/Kishankumar936?t=VRA9jU6PP6xcAPdSySOf-Q&s=08)  
+- **Email:** kishankumar12345a@gmail.com  
 
+---
 
-🎧 Lo-Fi Coding Vibes
-<p align="center"> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdPec7aLTmlC?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </p>
-
-
-🤝 Let's Connect
-💼 LinkedIn: Kishan Kumar
-
-🐦 Twitter: Kishan Kumar
-
-📧 Email: kishankumar12345a@gmail.com
-
-🎉 Fun Facts
-🎵 Vibing To: Lo-Fi Beats While Coding
-🎮 Gaming Obsession: Strategy & Puzzle Games
-📚 Favorite Book: The Alchemist by Paulo Coelho
-🚀 Motto: "Code, Learn, and Make an Impact!"
-
-<p align="center"> <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" /> </p>
+## 🎉 Fun Facts  
+🎵 **Favorite Music Genre:** Lo-Fi beats while coding  
+🎮 **Gaming Interests:** Strategy & Puzzle Games  
+🚀 **Motto:** *"Code, Learn, and Make an Impact!"* 
