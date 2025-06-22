@@ -14,9 +14,15 @@
 🔹 Member of **Rotary Club**, driving societal impact 🌍  
 🔹 Aspiring **civil servant**, blending tech with governance ✨  
 🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
-🔹 **[View My Resume](https://drive.google.com/file/d/19uqB6bLVimc3GiHRRfsJWQnDIrHoUV2y/view?usp=drive_link)** 📚  
+
+📄 **Resume Access**  
+To maintain privacy, I share my resume upon request.  
+[![Request Resume](https://img.shields.io/badge/Request-Resume-blue)](https://docs.google.com/forms/d/e/1FAIpQLSewXKbloqpnENlNP5KiPsrU7eI275Y6osRSetOggWc6B2lWRA/viewform?usp=header)
+I’ll email it to you shortly after reviewing your submission.  
+For direct queries: kishankumar12345a@gmail.com
 
 ---
+
 
 ## 🏅 Certifications
 
