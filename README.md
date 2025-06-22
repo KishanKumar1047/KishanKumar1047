@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kishankumar1047&style=flat&label=Profile%20Views" alt="Profile Views" />
 </p>
 
----
-
 ## 🚀 About Me
 
 🔹 Passionate about **C++, SQL, Data Science, and Deep Learning**  
@@ -14,12 +12,8 @@
 🔹 Member of **Rotary Club**, driving societal impact 🌍  
 🔹 Aspiring **civil servant**, blending tech with governance ✨  
 🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
+🔹 **[View My Resume](https://drive.google.com/file/d/19uqB6bLVimc3GiHRRfsJWQnDIrHoUV2y/view?usp=drive_link)** 📚  
 
-📄 **Resume Access**  
-To maintain privacy, I share my resume via request form.  
-👉 [Request Resume Access](https://docs.google.com/forms/d/e/1FAIpQLSewXKbloqpnENlNP5KiPsrU7eI275Y6osRSetOggWc6B2lWRA/viewform?usp=header)  
-📬 You’ll get the link to view my resume right after submitting the form.  
-📧 For queries, email: kishankumar12345a@gmail.com
 ---
 
 
