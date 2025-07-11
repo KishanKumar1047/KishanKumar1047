@@ -15,7 +15,7 @@
 🔹 Intern at **Zidio Dev (ML)** & **Web Dev Intern (2025)**  
 🔹 Social contributor through **Rotary Club** and **Prayas STEM Educator**  
 🔹 Strong desire to combine tech with governance as an **aspiring civil servant**  
-🔹 **[📄 View My Resume](https://drive.google.com/file/d/1HovlGgYj6_IXprG1GzqGlh-2BXz_m3-A/view?usp=drive_link)**  
+🔹 **[📄 View My Resume](https://drive.google.com/file/d/1oDh-WF9dGa7pekzz1HsVmrmNm1GYKTk2/view?usp=drive_link)**  
 
 ---
 
