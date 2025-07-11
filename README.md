@@ -1,67 +1,91 @@
 <h1 align="center">Hi there, I'm Kishan Kumar 👋</h1>
 
 <p align="center">
-  <b>BTech Student • C++ & SQL Enthusiast • Data Science & Deep Learning Researcher</b><br/>
+  <b>BTech CSE @ NIT Hamirpur • Data Science & ML Enthusiast • C++ & SQL Explorer</b><br/>
   <img src="https://komarev.com/ghpvc/?username=kishankumar1047&style=flat&label=Profile%20Views" alt="Profile Views" />
 </p>
 
+---
+
 ## 🚀 About Me
 
-🔹 Passionate about **C++, SQL, Data Science, and Deep Learning**  
-🔹 Exploring **GANs, Machine Learning & Big Data Analytics** 📊  
-🔹 Member of **Rotary Club**, driving societal impact 🌍  
-🔹 Aspiring **civil servant**, blending tech with governance ✨  
-🔹 Love **solving problems, competitive coding, and open-source contributions** 💻  
-🔹 **[View My Resume](https://drive.google.com/file/d/19uqB6bLVimc3GiHRRfsJWQnDIrHoUV2y/view?usp=drive_link)** 📚  
+🔹 Finalist in **Data Science & Deep Learning Projects**  
+🔹 Working with **YOLOv11, OpenCV, Transformers & LSTM** models  
+🔹 Hands-on with **MLOps**, deployment using **Streamlit, Flask & Docker**  
+🔹 Intern at **Zidio Dev (ML)** & **Web Dev Intern (2025)**  
+🔹 Social contributor through **Rotary Club** and **Prayas STEM Educator**  
+🔹 Strong desire to combine tech with governance as an **aspiring civil servant**  
+🔹 **[📄 View My Resume](https://drive.google.com/file/d/1HovlGgYj6_IXprG1GzqGlh-2BXz_m3-A/view?usp=drive_link)**  
 
 ---
 
-
 ## 🏅 Certifications
 
-- 📜 [Certified in Python Programming](https://drive.google.com/file/d/1MbtccBH1dxaUfLHlxqK8VVvFEsbF0KiW/view?usp=drive_link)  
-- 🤖 [AI Workshop Attendee – Be10x Certification](https://drive.google.com/file/d/1Bux8u1iU21qxNuyBi3hdSQvOKOtA1XXN/view?usp=drive_link)
+- ✅ [Deloitte Technology Virtual Internship (Forage)](https://drive.google.com/file/d/1r-o8oJX353icCCjInkTmxjdG7p4kIpau/view?usp=drive_link)  
+- 📜 [Be10x AI/Data Science Certification](https://drive.google.com/file/d/1Bux8u1iU21qxNuyBi3hdSQvOKOtA1XXN/view?usp=drive_link)  
+- 🧠 [Python Programming - OneRoadmap](https://drive.google.com/file/d/1MbtccBH1dxaUfLHlxqK8VVvFEsbF0KiW/view?usp=drive_link)  
+- 🧩 HackerRank Certified: Python & Problem Solving  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 Programming Languages  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+### 👨‍💻 Languages & Programming  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🗄️ Database & Big Data  
+### 🧠 AI/ML/NLP  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-ffd343?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### 🌐 Deployment & MLOps  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### 🗄️ Database & Tools  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-
-### 📊 Data Science & Machine Learning  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-### 🔧 Tools & Frameworks  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 📌 Current Projects
+## 📌 Featured Projects
 
-- 🌬️ **SAR Image Colorization using GANs** – *Improving SAR image interpretability with Deep Learning*  
-- 🎮 **Sliding Puzzle & Snake Game** – *Browser-based games using HTML/CSS/JS*  
-- 📚 **Library Management System** – *C++ based system using OOP & file handling*  
-- 📊 **SQL Data Analysis** – *Insight generation using MySQL/PostgreSQL*  
-- 🔢 **C++ DSA Repository** – *Advanced Data Structures & Algorithms practice*
+- 🎬 [**Movie Recommender System**](https://github.com/KishanKumar1047/Movie_Recommender)  
+  A content-based movie engine using Bag of Words + cosine similarity, deployed via Flask on Render.
+
+- 📈 [**Stock Market Forecasting**](https://github.com/KishanKumar1047/Stock_Market_Forecasting)  
+  Built an LSTM-RNN model to predict trends with real-time Streamlit deployment.
+
+- 💳 [**Credit Card Fraud Detection**](https://github.com/KishanKumar1047/Credit_Card_Fraud_detection)  
+  Used Voting Classifier (LogReg, RF, KNN), SMOTE & PCA. Achieved 94% accuracy.
+
+- 🧠 **Player Re-ID from Single Feed**  
+  Sports analytics using YOLOv11 + OpenCV for object detection and consistent tracking.
+
+---
+
+## 🌍 Social Impact
+
+- 📚 **Prayas STEM Educator (2025–Present):** Mentoring underprivileged students in science & tech  
+- 🏥 **Rotary Club (Since 2019):** Active in community welfare & public health initiatives  
+
+---
+
+## 🏆 Achievements  
+
+✅ 200+ DSA problems solved on LeetCode  
+✅ Completed TUF DSA Sheet (100+ questions)  
+✅ Recognized for Academic Excellence & Consistency  
+✅ Upcoming Research: SAR Image Colorization using GANs  
 
 ---
 
@@ -72,28 +96,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1047&theme=tokyonight" width="48%" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1047&layout=compact&theme=tokyonight" width="48%" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=kishankumar1047&theme=tokyonight" width="90%"/>
 </p>
 
 ---
 
+## 🤝 Let's Connect
 
-## 🏆 Achievements  
-🏆 **Ranked in Competitive Coding Challenges** on platforms like Codeforces & Leetcode  
-🏆 **Published Research Work on SAR Image Colorization (upcoming)**  
-🏆 **Built SQL-driven data analysis projects**  
-🏆 **Contributed to Open Source & Rotary Club Projects**  
-
----
-
-## 🤝 Let's Connect  
-- **LinkedIn:** [Kishan Kumar](https://www.linkedin.com/in/kishan-kumar-14a7802b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Twitter:** [Kishan Kumar](https://x.com/Kishankumar936?t=VRA9jU6PP6xcAPdSySOf-Q&s=08)  
-- **Email:** kishankumar12345a@gmail.com  
+- 🌐 [Portfolio](https://arjun-kishan.netlify.app)  
+- 🔗 [LinkedIn](https://linkedin.com/in/kishankumar098)  
+- 🧑‍💻 [GitHub](https://github.com/kishankumar1047)  
+- 📧 kishankumar12345a@gmail.com  
+- 📞 +91-7782996755  
 
 ---
 
-## 🎉 Fun Facts  
-🎵 **Favorite Music Genre:** Lo-Fi beats while coding  
-🎮 **Gaming Interests:** Strategy & Puzzle Games  
-🚀 **Motto:** *"Code, Learn, and Make an Impact!"* 
+## 🎉 Fun Facts
+
+🎵 I code better with Lo-Fi beats  
+🎮 Love strategic and puzzle-based games  
+🧠 Motto: *"Code, Learn, and Make an Impact!"*
