@@ -106,8 +106,6 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/kishankumar098)  
 - 🧑‍💻 [GitHub](https://github.com/kishankumar1047)  
 - 📧 kishankumar12345a@gmail.com  
-- 📞 +91-7782996755  
-
 ---
 
 ## 🎉 Fun Facts
