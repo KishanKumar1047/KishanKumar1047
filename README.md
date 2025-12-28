@@ -88,8 +88,8 @@
 
 ## 🏆 Achievements  
 
-✅ 200+ DSA problems solved on LeetCode  
-✅ Completed TUF DSA Sheet (100+ questions)  
+✅ 300+ DSA problems solved on LeetCode  
+✅ Completed TUF DSA Sheet (300+ questions)  
 ✅ Recognized for Academic Excellence & Consistency  
 ✅ Upcoming Research: SAR Image Colorization using GANs  
 
