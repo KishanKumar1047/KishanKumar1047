@@ -7,7 +7,7 @@
 <div align="center">
   <h1>Hi, I'm Kishan Kumar 👋</h1>
   <p align="center">
-    <strong>BTech CSE @ NIT Hamirpur | AI & Data Science Specialist | Aspiring Civil Servant</strong><br />
+    <strong>BTech CSE @ NIT Hamirpur | AI & Data Science Specialist <br />
     <em>Transforming data into insights and technology into social impact.</em>
   </p>
 
