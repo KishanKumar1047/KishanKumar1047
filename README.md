@@ -102,27 +102,7 @@ class KishanKumar:
 
 ---
 
-### 📱 [KONKA BOT](https://github.com/KishanKumar1047/KONKA_BOT)
-> A Telegram bot supercharged with Groq LLM + RAG — answers questions, retrieves context, and chats intelligently.
 
-`Python` `Groq API` `Telegram Bot API` `RAG`
-
-- 🔗 RAG pipeline for context-aware, grounded responses
-- ⚡ Fast responses via Groq LPU inference
-- 💬 Deployable Telegram interface for real users
-
----
-
-### 💳 [Credit Card Fraud Detection](https://github.com/KishanKumar1047/Credit_Card_Fraud_detection)
-> Tackles extreme class imbalance with SMOTE + PCA + Voting Classifier ensemble to achieve ~94% performance on fraud detection.
-
-`Scikit-Learn` `SMOTE` `PCA` `Jupyter Notebook`
-
-- ⚖️ Addresses real-world imbalanced dataset challenges head-on
-- 🗳️ Ensemble voting classifier for robust predictions
-- 📊 Full EDA, feature engineering, and evaluation pipeline
-
----
 
 ### 🎬 [Movie Recommender System](https://github.com/KishanKumar1047/Movie_Recommender)
 > Content-based filtering with cosine similarity, deployed as an interactive Streamlit app.
@@ -135,27 +115,8 @@ class KishanKumar:
 
 ---
 
-### 🏃 Player Re-Identification *(In Progress)*
-> Real-time sports analytics — re-identifying players across frames from a single camera feed.
 
-`YOLOv11` `OpenCV` `Computer Vision` `Sports AI`
 
-- 🎯 Custom-trained YOLOv11 for player detection and tracking
-- 🧠 Re-ID features to maintain player identity across occlusions
-- ⚽ Potential for broadcast analytics and coaching tools
-
----
-
-### 🛰️ SAR Image Colorization *(Research — Upcoming Paper)*
-> Generative AI approach to colorizing synthetic aperture radar (SAR) images using GANs.
-
-`GANs` `Deep Learning` `Remote Sensing` `Research`
-
-- 🌍 Tackles a niche but impactful problem in satellite imagery
-- 🎨 Conditional GAN architecture for realistic colorization
-- 📄 Research paper in progress
-
----
 
 ## 📜 Certifications & Achievements
 
