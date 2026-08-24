@@ -5,6 +5,7 @@
 <a href="https://linkedin.com/in/kishankumar098"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://arjun-kishan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/kishankumar1047"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Arjun_kishan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:kishankumar12345a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1oDh-WF9dGa7pekzz1HsVmrmNm1GYKTk2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
 
@@ -133,13 +134,14 @@ Content-based recommender using TF-IDF + cosine similarity, deployed as a clean 
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kishankumar1047&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=kishankumar1047&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://leetcode.com/u/Arjun_kishan/"><img src="https://leetcard.jacoblin.cool/Arjun_kishan?theme=tokyonight&extension=activity" width="48%" /></a>
 
+<img src="https://streak-stats.demolab.com?user=kishankumar1047&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar1047&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
